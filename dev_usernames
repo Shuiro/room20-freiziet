@@ -19,3 +19,26 @@
 * Wade Rawlinson - rawlins.wad5073
 * Wyatt Giles - giles.wy5106
 * J.R. Brookins - brookin.jr2539
+
+
+####Coston's Notes
+sudo dscl . append /Groups/_developer GroupMembership <current user's username>
+sudo dscl . append /Groups/_developer GroupMembership cperkins
+sudo dscl . append /Groups/_developer GroupMembership bradsha.mar0250
+sudo dscl . append /Groups/_developer GroupMembership shapley.ste5509
+sudo dscl . append /Groups/_developer GroupMembership ackroyd.jad2556
+sudo dscl . append /Groups/_developer GroupMembership Dalling.bre6450
+sudo dscl . append /Groups/_developer GroupMembership black.ter0805
+sudo dscl . append /Groups/_developer GroupMembership bogle.hal0806
+sudo dscl . append /Groups/_developer GroupMembership ahampton
+sudo dscl . append /Groups/_developer GroupMembership ivie.bra5054
+sudo dscl . append /Groups/_developer GroupMembership hopkins.ain1983
+sudo dscl . append /Groups/_developer GroupMembership kimber.cli.2703
+sudo dscl . append /Groups/_developer GroupMembership neumann.rur5168
+sudo dscl . append /Groups/_developer GroupMembership minton.jar
+sudo dscl . append /Groups/_developer GroupMembership Davis.Tan2711
+sudo dscl . append /Groups/_developer GroupMembership julande.mic2712
+sudo dscl . append /Groups/_developer GroupMembership aglenn
+sudo dscl . append /Groups/_developer GroupMembership rawlins.wad5073
+sudo dscl . append /Groups/_developer GroupMembership giles.wy5106
+sudo dscl . append /Groups/_developer GroupMembership brookin.jr2539
