@@ -20,7 +20,6 @@
 * Wyatt Giles - giles.wy5106
 * J.R. Brookins - brookin.jr2539
 
-
 ####Coston's Notes
 sudo dscl . append /Groups/_developer GroupMembership <current user's username>
 sudo dscl . append /Groups/_developer GroupMembership cperkins
