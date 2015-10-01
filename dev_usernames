@@ -19,6 +19,7 @@
 * Wade Rawlinson - rawlins.wad5073
 * Wyatt Giles - giles.wy5106
 * J.R. Brookins - brookin.jr2539
+* Leviathan Brand - brand.lev2000
 
 ####Coston's Notes
 sudo dscl . append /Groups/_developer GroupMembership <current user's username>
